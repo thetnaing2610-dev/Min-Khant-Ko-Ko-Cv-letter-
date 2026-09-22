@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="my">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Min Khant Ko Ko - Professional Online CV</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #0f172a;
+            --accent-color: #0284c7;
+            --bg-color: #f1f5f9;
+            --card-bg: #ffffff;
+            --text-color: #334155;
+            --text-muted: #64748b;
+        }
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 15px;
+        }
+        .container { max-width: 800px; margin: 0 auto; }
+        .profile-header {
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            color: #fff;
+            padding: 30px 25px;
+            border-radius: 16px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+        }
+        .name { margin: 0; font-size: 2.2rem; font-weight: 700; letter-spacing: -0.5px; }
+        .title { margin: 6px 0 18px 0; font-size: 1.15rem; color: #38bdf8; font-weight: 500; }
+        .contact-links { display: flex; flex-wrap: wrap; gap: 12px 20px; font-size: 0.9rem; }
+        .contact-links a, .contact-links span { color: #e2e8f0; text-decoration: none; display: flex; align-items: center; gap: 8px; }
+        .contact-links i { color: #38bdf8; }
+        .card {
+            background: var(--card-bg);
+            padding: 24px;
+            border-radius: 16px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+        }
+        .card h2 {
+            margin-top: 0;
+            color: var(--primary-color);
+            font-size: 1.25rem;
+            border-bottom: 2px solid #f1f5f9;
+            padding-bottom: 12px;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .card h2 i { color: var(--accent-color); }
+        .timeline-item { margin-bottom: 22px; position: relative; padding-left: 15px; border-left: 3px solid #e2e8f0; }
+        .timeline-item:last-child { margin-bottom: 0; }
+        .job-header { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 5px; }
+        .job-header h3 { margin: 0; font-size: 1.1rem; color: var(--primary-color); }
+        .date { font-size: 0.85rem; color: var(--accent-color); background: #f0f9ff; padding: 2px 10px; border-radius: 12px; font-weight: 600; }
+        .company { font-weight: 600; color: var(--text-muted); margin: 4px 0 10px 0; font-size: 0.95rem; }
+        ul { margin: 0; padding-left: 18px; }
+        li { margin-bottom: 8px; color: #475569; }
+        .skills-grid { display: flex; flex-wrap: wrap; gap: 10px; }
+        .skill-tag { background: #f0f9ff; color: #0369a1; border: 1px solid #bae6fd; padding: 8px 16px; border-radius: 20px; font-size: 0.88rem; font-weight: 500; }
+        .edu-item h3 { margin: 0 0 6px 0; font-size: 1.05rem; color: var(--primary-color); }
+        .edu-item p { margin: 0; color: var(--text-muted); font-size: 0.92rem; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="profile-header">
+            <div class="profile-info">
+                <h1 class="name">မင်းခန့်ကိုကို</h1>
+                <h2 class="title">Professional Bar Captain & Mixologist</h2>
+                <div class="contact-links">
+                    <a href="mailto:minkhantkoko@gmail.com"><i class="fas fa-envelope"></i> minkhantkoko@gmail.com</a>
+                    <a href="tel:+959123456789"><i class="fas fa-phone"></i> +95 9 123 456 789</a>
+                    <span><i class="fas fa-map-marker-alt"></i> Yangon, Myanmar</span>
+                </div>
+            </div>
+        </header>
+
+        <section class="card">
+            <h2><i class="fas fa-user-circle"></i> Professional Summary</h2>
+            <p>
+                သောက်သုံးဖွယ်ရာ မီနူးဒီဇိုင်း ရေးဆွဲခြင်း၊ ကော့တေး ကုန်ကျစရိတ် တွက်ချက်ခြင်း (Costing)၊ စတော့ စီမံခန့်ခွဲခြင်း (Inventory Management) နှင့် ဝန်ထမ်းများ၏ လုပ်ငန်းခွင် စွမ်းဆောင်ရည် မြှင့်တင်ရေး လေ့ကျင့်သင်ကြားပေးခြင်းတို့တွင် အတွေ့အကြုံရင့်ကျက်သော Professional Bar Captain & Mixologist တစ်ဦးဖြစ်ပါသည်။ ဧည့်ဝန်ဆောင်မှု အဆင့်အတန်း မြှင့်တင်ရန်နှင့် ဆိုင်၏ ဝင်ငွေ တိုးတက်စေရန် စနစ်တကျ ဦးဆောင်နိုင်သူ ဖြစ်ပါသည်။
+            </p>
+        </section>
+
+        <section class="card">
+            <h2><i class="fas fa-briefcase"></i> Work Experience</h2>
+            <div class="timeline-item">
+                <div class="job-header">
+                    <h3>Bar Captain & Lead Mixologist</h3>
+                    <span class="date">2024 - Present</span>
+                </div>
+                <div class="company">Bar & Restaurant, Yangon</div>
+                <ul>
+                    <li>Signature Cocktail မီနူးများနှင့် Craft Syrup / Liqueur များ ဖျော်စပ်ထုတ်လုပ်ခြင်းဆိုင်ရာ နည်းစနစ်များကို ဦးဆောင်ရေးဆွဲခဲ့သည်။</li>
+                    <li>Google Sheets / Apps Script များ အသုံးပြု၍ နေ့စဉ် စတော့အထွက်နှင့် အလေအလွင့် နည်းပါးစေရန် Automated Inventory Variance System စနစ်တကျ တည်ဆောက်ခဲ့သည်။</li>
+                    <li>Bar Staff များ၏ ဝန်ဆောင်မှုနှင့် ကော့တေးဖျော်စပ်မှု ကျွမ်းကျင်မှုပိုင်းဆိုင်ရာ လစဉ် သင်တန်းများ ဦးဆောင်ပေးခဲ့သည်။</li>
+                </ul>
+            </div>
+
+            <div class="timeline-item">
+                <div class="job-header">
+                    <h3>Senior Bartender</h3>
+                    <span class="date">2022 - 2024</span>
+                </div>
+                <div class="company">Bar & Lounge, Yangon</div>
+                <ul>
+                    <li>ဧည့်သည်များအတွက် အဆင့်မြင့် သောက်သုံးဖွယ်ရာများကို ဖျော်စပ်ပေးခြင်းနှင့် ဝန်ဆောင်မှု အပြည့်အဝ ပေးခဲ့သည်။</li>
+                    <li>စတော့လက်ကျန် စာရင်းများကို တိကျစွာ ထိန်းသိမ်းပြီး Bar Area သန့်ရှင်းရေးနှင့် Hygiene Standards များကို တိကျစွာ လိုက်နာခဲ့သည်။</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="card">
+            <h2><i class="fas fa-cogs"></i> Professional Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-tag">Mixology & Recipe Formulation</div>
+                <div class="skill-tag">Cocktail Costing & Pricing</div>
+                <div class="skill-tag">Inventory Control Systems</div>
+                <div class="skill-tag">Staff Training & Leadership</div>
+                <div class="skill-tag">Food Safety & HACCP Hygiene</div>
+                <div class="skill-tag">Botanical Spirit Infusions</div>
+            </div>
+        </section>
+
+        <section class="card">
+            <h2><i class="fas fa-graduation-cap"></i> Certifications & Education</h2>
+            <div class="edu-item">
+                <h3>Level 3 Food Safety Supervisor Certification</h3>
+                <p>Food Safety Hazards, HACCP Systems & Hygiene Management</p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+
