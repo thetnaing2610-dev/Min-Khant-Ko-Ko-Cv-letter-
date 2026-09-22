@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="my">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Min Khant Ko Ko - Professional Online CV</title>
+    <title>Min Khant Ko Ko - Professional Online Resume</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         :root {
@@ -74,11 +74,11 @@
     <div class="container">
         <header class="profile-header">
             <div class="profile-info">
-                <h1 class="name">မင်းခန့်ကိုကို</h1>
-                <h2 class="title">Professional Bar Captain & Mixologist</h2>
+                <h1 class="name">Min Khant Ko Ko</h1>
+                <h2 class="title">Professional Bar Captain & Mixologist (5+ Years Experience)</h2>
                 <div class="contact-links">
-                    <a href="mailto:minkhantkoko@gmail.com"><i class="fas fa-envelope"></i> minkhantkoko@gmail.com</a>
-                    <a href="tel:+959123456789"><i class="fas fa-phone"></i> +95 9 123 456 789</a>
+                    <a href="mailto:thetnaing.2610@gmail.com"><i class="fas fa-envelope"></i> thetnaing.2610@gmail.com</a>
+                    <a href="tel:+959420174485"><i class="fas fa-phone"></i> +95 9 420 174 485</a>
                     <span><i class="fas fa-map-marker-alt"></i> Yangon, Myanmar</span>
                 </div>
             </div>
@@ -87,47 +87,72 @@
         <section class="card">
             <h2><i class="fas fa-user-circle"></i> Professional Summary</h2>
             <p>
-                သောက်သုံးဖွယ်ရာ မီနူးဒီဇိုင်း ရေးဆွဲခြင်း၊ ကော့တေး ကုန်ကျစရိတ် တွက်ချက်ခြင်း (Costing)၊ စတော့ စီမံခန့်ခွဲခြင်း (Inventory Management) နှင့် ဝန်ထမ်းများ၏ လုပ်ငန်းခွင် စွမ်းဆောင်ရည် မြှင့်တင်ရေး လေ့ကျင့်သင်ကြားပေးခြင်းတို့တွင် အတွေ့အကြုံရင့်ကျက်သော Professional Bar Captain & Mixologist တစ်ဦးဖြစ်ပါသည်။ ဧည့်ဝန်ဆောင်မှု အဆင့်အတန်း မြှင့်တင်ရန်နှင့် ဆိုင်၏ ဝင်ငွေ တိုးတက်စေရန် စနစ်တကျ ဦးဆောင်နိုင်သူ ဖြစ်ပါသည်။
+                Professional Bar Captain and Mixologist with over 5 years of solid experience in bar operations, craft mixology, and team leadership. Expertise in Cost of Goods Sold (COGS) calculation, menu design, standard operating procedure (SOP) development, and formulating house craft liqueurs and signature bitters. Proven track record in conducting staff training, implementing strict hygiene audit checklists, and maintaining high operational efficiency across high-volume venues.
             </p>
         </section>
 
         <section class="card">
             <h2><i class="fas fa-briefcase"></i> Work Experience</h2>
+
             <div class="timeline-item">
                 <div class="job-header">
-                    <h3>Bar Captain & Lead Mixologist</h3>
-                    <span class="date">2024 - Present</span>
+                    <h3>Mixologist</h3>
                 </div>
-                <div class="company">Bar & Restaurant, Yangon</div>
+                <div class="company">Bonsin</div>
                 <ul>
-                    <li>Signature Cocktail မီနူးများနှင့် Craft Syrup / Liqueur များ ဖျော်စပ်ထုတ်လုပ်ခြင်းဆိုင်ရာ နည်းစနစ်များကို ဦးဆောင်ရေးဆွဲခဲ့သည်။</li>
-                    <li>Google Sheets / Apps Script များ အသုံးပြု၍ နေ့စဉ် စတော့အထွက်နှင့် အလေအလွင့် နည်းပါးစေရန် Automated Inventory Variance System စနစ်တကျ တည်ဆောက်ခဲ့သည်။</li>
-                    <li>Bar Staff များ၏ ဝန်ဆောင်မှုနှင့် ကော့တေးဖျော်စပ်မှု ကျွမ်းကျင်မှုပိုင်းဆိုင်ရာ လစဉ် သင်တန်းများ ဦးဆောင်ပေးခဲ့သည်။</li>
+                    <li>Formulated and crafted signature cocktails and house-made craft liqueurs, triple sec, and specialized syrups.</li>
+                    <li>Designed conceptual beverage menus tailored to customer preferences and brand identity.</li>
+                    <li>Calculated Cost of Goods Sold (COGS) and beverage margins to maximize bar profitability.</li>
                 </ul>
             </div>
 
             <div class="timeline-item">
                 <div class="job-header">
-                    <h3>Senior Bartender</h3>
-                    <span class="date">2022 - 2024</span>
+                    <h3>Bar Captain</h3>
                 </div>
-                <div class="company">Bar & Lounge, Yangon</div>
+                <div class="company">Upper Deck</div>
                 <ul>
-                    <li>ဧည့်သည်များအတွက် အဆင့်မြင့် သောက်သုံးဖွယ်ရာများကို ဖျော်စပ်ပေးခြင်းနှင့် ဝန်ဆောင်မှု အပြည့်အဝ ပေးခဲ့သည်။</li>
-                    <li>စတော့လက်ကျန် စာရင်းများကို တိကျစွာ ထိန်းသိမ်းပြီး Bar Area သန့်ရှင်းရေးနှင့် Hygiene Standards များကို တိကျစွာ လိုက်နာခဲ့သည်။</li>
+                    <li>Developed and enforced comprehensive Standard Operating Procedures (SOPs) for daily bar operations.</li>
+                    <li>Conducting staff training programs covering pouring techniques, speed service, cocktail recipes, and customer engagement.</li>
+                    <li>Designed and monitored daily bar hygiene and sanitation checklists to ensure strict food safety standards.</li>
+                    <li>Managed bar inventory variance, stock replenishment, and daily counter auditing.</li>
+                </ul>
+            </div>
+
+            <div class="timeline-item">
+                <div class="job-header">
+                    <h3>Bartender</h3>
+                </div>
+                <div class="company">The Bash Yangon</div>
+                <ul>
+                    <li>Prepared and served high-quality standard cocktails, mocktails, and spirit mixes in a fast-paced environment.</li>
+                    <li>Maintained clean, sanitized bar workstations and ensured excellent guest relations.</li>
+                </ul>
+            </div>
+
+            <div class="timeline-item">
+                <div class="job-header">
+                    <h3>Helper & Bartender</h3>
+                </div>
+                <div class="company">Summit Music Pub</div>
+                <ul>
+                    <li>Assisted in bar setup, inventory preparation, fruit cutting, and bar station prep.</li>
+                    <li>Handled drink preparation, keg management, and glass hygiene during peak operation hours.</li>
                 </ul>
             </div>
         </section>
 
         <section class="card">
-            <h2><i class="fas fa-cogs"></i> Professional Skills</h2>
+            <h2><i class="fas fa-cogs"></i> Key Skills & Competencies</h2>
             <div class="skills-grid">
-                <div class="skill-tag">Mixology & Recipe Formulation</div>
-                <div class="skill-tag">Cocktail Costing & Pricing</div>
-                <div class="skill-tag">Inventory Control Systems</div>
-                <div class="skill-tag">Staff Training & Leadership</div>
-                <div class="skill-tag">Food Safety & HACCP Hygiene</div>
-                <div class="skill-tag">Botanical Spirit Infusions</div>
+                <div class="skill-tag">Craft Mixology & House Liqueurs</div>
+                <div class="skill-tag">COGS Calculation & Cost Control</div>
+                <div class="skill-tag">SOP Development</div>
+                <div class="skill-tag">Menu Design & Curation</div>
+                <div class="skill-tag">Staff Training & Mentorship</div>
+                <div class="skill-tag">Bar Hygiene Checklists & Audits</div>
+                <div class="skill-tag">Inventory & Stock Variance Management</div>
+                <div class="skill-tag">Level 3 Food Safety & HACCP</div>
             </div>
         </section>
 
@@ -135,10 +160,9 @@
             <h2><i class="fas fa-graduation-cap"></i> Certifications & Education</h2>
             <div class="edu-item">
                 <h3>Level 3 Food Safety Supervisor Certification</h3>
-                <p>Food Safety Hazards, HACCP Systems & Hygiene Management</p>
+                <p>Comprehensive training covering Food Safety Hazards, HACCP Systems, Allergen Management, and Premises Hygiene Standards.</p>
             </div>
         </section>
     </div>
 </body>
 </html>
-
